@@ -3,7 +3,7 @@
 Criei este perfil para registrar e compartilhar minhas experiências.
 
 * 👨🏻‍💻  | Graduando Engenharia da Computação <br />
-* 🏻‍💻 | Jr. Web Developer - Holagri
+* 💻 | Jr. Web Developer - Holagri
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elieltonbueno/)](https://www.linkedin.com/in/elieltonbueno/)
