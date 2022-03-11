@@ -2,7 +2,7 @@
 
 Criei este perfil para registrar e compartilhar minhas experiências.
 
-* 🔥the best is yet to come
+* 🔥frontend engieer
 
 * 💬 the best is yet to come
 * 👨🏻‍💻  | Graduando Engenharia da Computação <br />
