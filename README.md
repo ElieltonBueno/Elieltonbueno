@@ -18,9 +18,10 @@ Languages where i have knowlogedment:
 
 
 Frameworks/Libs: FastAPI, Django, Flask, Pandas, Numpy, Celery, OAuth2, JWT.
-JavaScript
+![image](https://user-images.githubusercontent.com/49819902/213273160-4d814eaf-c880-4edc-82e7-b0e410dfba7c.png)
 
 Frameworks/Libs: React, Axios, React Hook Form, React Router Dom, Yup.
 Other technologies:
 
 MySQL PostgreSQL Linux AWS GCP Redis
+![image](https://user-images.githubusercontent.com/49819902/213273194-8b4d4309-4c65-42a5-8301-a4f4014fe6ea.png)
