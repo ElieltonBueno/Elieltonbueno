@@ -1,4 +1,5 @@
-### Olá, visitante! 👋
+
+### Hi, i'm Elielton , and i work as Application Developer. 👨‍💻
 
 > I solve people's problems by creating modern and scalable end-to-end solutions, focusing only on what is needed to build and evolve the product.
 
@@ -10,9 +11,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elieltonbueno/)](https://www.linkedin.com/in/elieltonbueno/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ELIELTONBUENO4)](https://twitter.com/ElieltonBuenoh2)
-
-### Hi, i'm Elielton , and i work as Application Developer. 👨‍💻
-
 
 Languages where i have knowlogedment:
 
