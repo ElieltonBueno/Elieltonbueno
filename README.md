@@ -14,7 +14,8 @@
 
 Languages where i have knowlogedment:
 
-Python
+![image](https://user-images.githubusercontent.com/49819902/213273044-f12a3468-963b-4ea6-8806-adda34c7f8c4.png)
+
 
 Frameworks/Libs: FastAPI, Django, Flask, Pandas, Numpy, Celery, OAuth2, JWT.
 JavaScript
