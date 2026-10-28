@@ -1,34 +1,34 @@
+# Hi, I'm Elielton 👋
 
-Hi, I'm Elielton, and I work as an Application Developer. 👨‍💻
+**Software Engineer at [Holagri](https://holagri.com.br)** — I build field-ready software for agriculture:
+offline-first apps for agronomists, irrigation management, field trials and GIS data collection.
 
-I solve people's problems by creating modern, scalable end-to-end solutions, focusing on what is truly needed to build and evolve products.
-
-🔥 I'm a Software Engineer
-🎓 Computer Engineer
-🎓 Bachelor's Degree in Information Technology, with an emphasis on Internet of Things (IoT)
-💻 Software Engineer at Holagri
+🎓 Computer Engineering · B.Sc. in Information Technology (IoT)
+🌱 Focus: agtech, offline-first PWAs, data pipelines and statistical analysis
 💬 The best is yet to come.
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elieltonbueno/)](https://www.linkedin.com/in/elieltonbueno/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/ELIELTONBUENO4)](https://twitter.com/ElieltonBuenoh2)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elieltonbueno/)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ElieltonBuenoh2)
 
-Languages where i have knowlogedment:
+## 🚀 What I'm building
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-- Frameworks/Libs: FastAPI, Django, Flask, Pandas, Numpy, Celery, OAuth2, JWT.
+- **Field trials platform**: offline PWA for field monitors + web dashboard for managers (RCBD layouts, KML plots, QR-tagged stakes, ANOVA/Tukey/Scott-Knott).
+- **Irrigation management**: center-pivot water balance (ETo, Kc, soil water storage) and energy cost tracking.
+- **Field GIS app**: plot mapping, sampling and trap monitoring, working without signal.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-- Frameworks/Libs: React, Axios, React Hook Form, React Router Dom, Yup.
+## 🛠️ Tech stack
 
-Other technologies:
+**Languages:** ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+**Back-end:** FastAPI · Django · Flask · Node (Fastify) · Celery · OAuth2/JWT
+**Front-end:** React · Next.js · Vite · PWA (Service Worker, IndexedDB)
+**Data:** Pandas · NumPy · SciPy · statsmodels
+
+**Infra & databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
-
-
-
-<br>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
